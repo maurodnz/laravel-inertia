@@ -11,7 +11,7 @@
 
 This repository is intended to use as scaffold to new Laravel project. Below some component you'll find with:
 
-- **[Laravel]((https://laravel.com)** v10.13.0
+- **[Laravel](https://laravel.com)** v10.13.0
 - **[Inertia.js](https://inertiajs.com)**
 - **[React](https://react.dev)**
 - **[Vite.js](https://vitejs.dev)**
